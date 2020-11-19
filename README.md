@@ -1,4 +1,4 @@
-# Ajuste
+# Pyjuste
 
 ### Um módulo para o ajuste linear de dados pelo método dos mínimos quadrados
 
